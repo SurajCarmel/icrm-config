@@ -38,3 +38,7 @@ logging:
     rollingpolicy:
       clean-history-on-start: false
       max-file-size: 5MB
+  
+  carmel:
+  temp-files-upload-path: "/mnt/volume/apps/docker/uploads/"
+  reports-template-path: "E:/reports-template/"
