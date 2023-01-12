@@ -39,6 +39,6 @@ logging:
       clean-history-on-start: false
       max-file-size: 5MB
   
-  carmel:
-    temp-files-upload-path: "/mnt/volume/apps/docker/uploads/"
-    reports-template-path: "/mnt/volume/apps/docker/reports-template/"
+carmel:
+  temp-files-upload-path: "/mnt/volume/apps/docker/uploads/"
+  reports-template-path: "/mnt/volume/apps/docker/reports-template/"
