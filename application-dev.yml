@@ -40,6 +40,6 @@ logging:
       max-file-size: 5MB
   
 carmel:
-  temp-files-upload-path: "/mnt/volume/apps/docker/uploads/"
+  temp-files-upload-path: "/mnt/volume/apps/docker/icrm/uploads/"
   docs-path: "/uploads/"
   reports-template-path: "/mnt/volume/apps/docker/reports-template/"
