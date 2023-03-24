@@ -41,4 +41,5 @@ logging:
   
 carmel:
   temp-files-upload-path: "/mnt/volume/apps/docker/uploads/"
+  docs-path: "/uploads/"
   reports-template-path: "/mnt/volume/apps/docker/reports-template/"
